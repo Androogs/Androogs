@@ -1,12 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000428,100:004e92&text=ALEJANDRO%20GARCIA&fontColor=00E5FF&animation=twinkling&fontSize=50"/>
+<img width="100%" src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif"/>
 
-</div>
-
-# 👋 Hi, I'm Wireboy 🗿
-
-## 🚀 Informatic Forensinc • Cybersecurity Analist • Full-Stack - Developer
+# 👋 Hi, I'm Wireboy 🗿 <br>
+🚀 Informatic Forensinc • Cybersecurity Analist • Full-Stack - Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+World!;Automation+Engineer;Python+Developer;AI+Builder" alt="Typing SVG" />
@@ -83,19 +80,7 @@ const Alejandro = {
 
 ---
 
-# 🐍 Contributions Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Androogs/Androogs/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
-
 # ⚡ Fun Fact
-
-# ⚡ Fun Facts
 
 > 💻 I enjoy turning ideas into real software.
 
@@ -113,6 +98,6 @@ const Alejandro = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000428,100:004e92&text=ALEJANDRO%20GARCIA&fontColor=00E5FF&animation=twinkling&fontSize=50"/>
+<img width="100%" src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif"/>
 
 </div>
