@@ -1,9 +1,7 @@
-<div align="center">
 
-<img width="100%" src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif"/>
 
 # 👋 Hi, I'm Wireboy 🗿 <br>
-🚀 Informatic Forensinc • Cybersecurity Analist • Full-Stack - Developer
+## 🚀 Informatic Forensinc • Cybersecurity Analist • Full-Stack - Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+World!;Automation+Engineer;Python+Developer;AI+Builder" alt="Typing SVG" />
@@ -94,10 +92,3 @@ const Alejandro = {
 
 > 🎯 Clean code is always faster than clever code.
 
----
-
-<div align="center">
-
-<img width="100%" src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif"/>
-
-</div>
