@@ -1,36 +1,43 @@
-👋 Hi, I'm Wireboy 🗿
-🚀 Automation Engineer • Python Developer • Cybersecurity Analist • Digital Forensics
+<!-- ========================================================= -->
+<!--                 🚀 GITHUB PROFILE README                  -->
+<!--     Reemplaza TODO_LO_QUE_ESTÁ_ENTRE <> por tus datos     -->
+<!-- ========================================================= -->
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+World!">
-</p>
+<div align="center">
 
-## 👨‍💻 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C853,100:00695C&text=Alejandro%20Garcia&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-- 💻 Software Developer
-- 🔍 Digital Forensics
-- 🌎 I'm everywhere at the same time.
-- 🚀 Always learning
-- ☕ Coffee Master
+<br>
 
-- <p align="center">
-<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,wordpress,git,github,vscode,linux"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Digital+Forensics+Analyst;WordPress+Developer;Cybersecurity+Enthusiast;Always+Learning+Something+New"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true"/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact"/>
-<!--
-**Androogs/Androogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/<Androogs>">
+<img src="https://komarev.com/ghpvc/?username=<TU_USUARIO>&label=Profile+Views&color=00C853&style=for-the-badge"/>
+</a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨🏻‍💻 About Me
+
+```js
+const Alejandro = {
+    location: "Colombia 🇨🇴",
+    role: "Software Developer",
+    interests: [
+        "Digital Forensics",
+        "Cybersecurity",
+        "WordPress",
+        "PHP",
+        "Linux"
+    ],
+    currentlyLearning: [
+        "Reverse Engineering",
+        "Mobile Forensics",
+        "Cloud Security"
+    ],
+    motto: "Keep Learning."
+}
