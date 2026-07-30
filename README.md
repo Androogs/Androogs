@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/banner.gif">
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3c2dzZldzZzZ2MyNHMycGFpYmN5czlpaHowMmJyem1xdDBpdmJ3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1oF1KAEYvmXBMo6uTS/giphy.gif"/>
 
 </div>
 
@@ -96,8 +96,10 @@ const Alejandro = {
 
 > 🎯 Clean code is always faster than clever code.
 
+---
+
 <div align="center">
 
-<img width="100%" src="assets/footer.gif">
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3c2dzZldzZzZ2MyNHMycGFpYmN5czlpaHowMmJyem1xdDBpdmJ3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1oF1KAEYvmXBMo6uTS/giphy.gif"/>
 
 </div>
