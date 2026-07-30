@@ -1,4 +1,8 @@
+<div align="center">
 
+<img width="100%" src="assets/banner.gif">
+
+</div>
 
 # 👋 Hi, I'm Wireboy 🗿 <br>
 ## 🚀 Informatic Forensinc • Cybersecurity Analist • Full-Stack - Developer
@@ -92,3 +96,8 @@ const Alejandro = {
 
 > 🎯 Clean code is always faster than clever code.
 
+<div align="center">
+
+<img width="100%" src="assets/footer.gif">
+
+</div>
